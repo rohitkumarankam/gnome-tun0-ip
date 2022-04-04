@@ -1,0 +1,11 @@
+{
+    "name" : "tun0 ip",
+    "description" : "shows tun0 inet address in gnome shell",
+    "shell-version" : [
+        "40",
+        "41"
+    ],
+    "url" : "",
+    "uuid" : "tun0-ip@rohitkumarankam.com",
+    "version" : 1.0
+}
